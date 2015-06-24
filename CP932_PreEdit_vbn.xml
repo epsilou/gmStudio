@@ -1,0 +1,1400 @@
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8193____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8194____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‚“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8293____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‚”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8294____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ƒ“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8393____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ƒ”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8394____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‡“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8793____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‡”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8794____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‰“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8993____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‰”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8994____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[Š“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8A93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[Š”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8A94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‹“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8B93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‹”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8B94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[Œ“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8C93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[Œ”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8C94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8D93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8D94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[Ž“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8E93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[Ž”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8E94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8F93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H8F94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9093____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9094____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‘“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9193____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[‘”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9194____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[’“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9293____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[’”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9294____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[““]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9393____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9394____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9493____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[””]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9494____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[•“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9593____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[•”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9594____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[–“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9693____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[–”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9694____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[—“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9793____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[—”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9794____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[™“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9993____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[™”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9994____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[š“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9A93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[š”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9A94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[›“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9B93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[›”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9B94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[œ“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9C93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[œ”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9C94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9D93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9D94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ž“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9E93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ž”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9E94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[Ÿ“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9F93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[Ÿ”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9F94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[à“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE093____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[à”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE094____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[á“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE193____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[á”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE194____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[â“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE293____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[â”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE294____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ã“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE393____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ã”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE394____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ä“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE493____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ä”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE494____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[å“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE593____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[å”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE594____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[æ“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE693____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[æ”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE694____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ç“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE793____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ç”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE794____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[è“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE893____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[è”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE894____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[é“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE993____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[é”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HE994____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ê“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HEA93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ê”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HEA94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ú“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HFA93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[ú”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HFA94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[û“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HFB93____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[û”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&HFB94____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“@]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9340____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“[]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H935B____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“\]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H935C____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H935D____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“^]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H935E____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“_]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H935F____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“`]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9360____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“{]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H937B____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“|]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H937C____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“}]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H937D____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“~]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H937E____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“€]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9380____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9381____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“‚]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9382____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ƒ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9383____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“„]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9384____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“…]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9385____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“†]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9386____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“‡]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9387____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ˆ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9388____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“‰]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9389____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Š]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H938A____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“‹]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H938B____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Œ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H938C____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H938D____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ž]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H938E____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H938F____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9390____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“‘]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9391____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“’]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9392____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[““]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9393____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9394____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“•]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9395____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“–]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9396____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“—]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9397____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“˜]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9398____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“™]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9399____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“š]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H939A____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“›]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H939B____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“œ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H939C____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H939D____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ž]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H939E____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ÿ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H939F____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¡]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¢]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“£]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¤]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¥]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¦]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“§]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¨]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“©]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93A9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ª]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93AA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“«]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93AB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¬]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93AC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“­]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93AD____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“®]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93AE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¯]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93AF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“°]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“±]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“²]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“³]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“´]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“µ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¶]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“·]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¸]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¹]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93B9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“º]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93BA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“»]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93BB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¼]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93BC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“½]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93BD____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¾]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93BE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“¿]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93BF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“À]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Á]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Â]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ã]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ä]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Å]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Æ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ç]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“È]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“É]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93C9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ê]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93CA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ë]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93CB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ì]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93CC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Í]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93CD____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Î]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93CE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ï]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93CF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ð]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ñ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ò]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ó]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ô]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Õ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ö]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“×]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ø]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ù]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93D9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ú]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93DA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Û]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93DB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ü]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93DC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Ý]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93DD____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“Þ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93DE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ß]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93DF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“à]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“á]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“â]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ã]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ä]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“å]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“æ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ç]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“è]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“é]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93E9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ê]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93EA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ë]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93EB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ì]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93EC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“í]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93ED____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“î]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93EE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ï]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93EF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ð]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ñ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ò]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ó]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ô]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“õ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ö]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“÷]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ø]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ù]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93F9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ú]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93FA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“û]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93FB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[“ü]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H93FC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”@]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9440____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”[]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H945B____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”\]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H945C____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H945D____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”^]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H945E____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”_]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H945F____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”`]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9460____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”{]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H947B____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”|]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H947C____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”}]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H947D____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”~]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H947E____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”€]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9480____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9481____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”‚]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9482____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ƒ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9483____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”„]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9484____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”…]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9485____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”†]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9486____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”‡]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9487____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ˆ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9488____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”‰]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9489____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Š]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H948A____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”‹]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H948B____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Œ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H948C____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H948D____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ž]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H948E____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H948F____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9490____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”‘]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9491____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”’]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9492____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”“]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9493____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[””]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9494____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”•]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9495____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”–]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9496____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”—]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9497____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”˜]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9498____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”™]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H9499____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”š]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H949A____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”›]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H949B____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”œ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H949C____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H949D____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ž]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H949E____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ÿ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H949F____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[” ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¡]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¢]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”£]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¤]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¥]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¦]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”§]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¨]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”©]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94A9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ª]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94AA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”«]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94AB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¬]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94AC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”­]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94AD____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”®]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94AE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¯]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94AF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”°]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”±]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”²]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”³]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”´]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”µ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¶]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”·]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¸]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¹]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94B9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”º]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94BA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”»]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94BB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¼]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94BC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”½]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94BD____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¾]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94BE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”¿]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94BF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”À]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Á]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Â]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ã]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ä]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Å]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Æ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ç]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”È]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”É]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94C9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ê]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94CA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ë]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94CB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ì]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94CC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Í]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94CD____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Î]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94CE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ï]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94CF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ð]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ñ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ò]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ó]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ô]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Õ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ö]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”×]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ø]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ù]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94D9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ú]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94DA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Û]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94DB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ü]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94DC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Ý]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94DD____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”Þ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94DE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ß]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94DF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”à]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”á]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”â]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ã]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ä]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”å]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”æ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ç]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”è]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”é]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94E9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ê]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94EA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ë]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94EB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ì]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94EC____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”í]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94ED____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”î]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94EE____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ï]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94EF____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ð]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F0____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ñ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F1____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ò]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F2____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ó]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F3____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ô]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F4____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”õ]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F5____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ö]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F6____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”÷]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F7____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ø]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F8____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ù]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94F9____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ú]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94FA____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”û]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94FB____]]></NewBlock>
+</Replace>
+<Replace>
+   <OldBlock><![CDATA[”ü]]></OldBlock>
+   <NewBlock><![CDATA[____sjis_&H94FC____]]></NewBlock>
+</Replace>
