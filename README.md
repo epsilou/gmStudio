@@ -1,6 +1,6 @@
 # gmStudio
 
-All rules were tested with the folloing version of gmStudio.
+All rules were tested with the following version of gmStudio.
 
 --- Files in C:\Program Files\GreatMigrations\gmStudio\
 
